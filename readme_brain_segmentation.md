@@ -89,5 +89,5 @@ This project is open-source and licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-Built by [Your Name] with 🧠 using U-Net and Python
+Built by Charvi Joshi with 🧠 using U-Net and Python
 
